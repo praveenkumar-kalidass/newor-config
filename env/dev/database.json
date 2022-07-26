@@ -1,0 +1,12 @@
+{
+  "dev": {
+    "username": "newor_dev",
+    "password": "newordev@123",
+    "database": "newor_data_dev",
+    "host": "postgres",
+    "dialect": "postgres",
+    "migrationStorage": "sequelize",
+    "seederStorage": "sequelize"
+  }
+}
+
