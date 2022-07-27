@@ -1,4 +1,8 @@
 {
-  "email_verification_token_secret": "newordevtoken@123"
+  "email_verification_token_secret": "newordevtoken@123",
+  "smtp_endpoint": "email-smtp.us-west-1.amazonaws.com",
+  "smtp_user_name": "AKIASTFUCCNFX6IQZ5MK",
+  "smtp_password": "BAMqOH2wA32bpQoIrGGq6Zx4wouCuOo+t+5iwYxCDokp",
+  "email_id": "newor.dev@gmail.com"
 }
 
