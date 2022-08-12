@@ -1,10 +1,9 @@
 {
-  "base_url": "http://ec2-13-52-103-135.us-west-1.compute.amazonaws.com:3000",
-  "email_verification_token_secret": "newordevtoken@123",
-  "smtp_endpoint": "email-smtp.us-west-1.amazonaws.com",
-  "smtp_user_name": "AKIASTFUCCNFX6IQZ5MK",
-  "smtp_password": "BAMqOH2wA32bpQoIrGGq6Zx4wouCuOo+t+5iwYxCDokp",
-  "email_id": "newor.dev@gmail.com",
-  "password_reset_token_secret": "neworresettoken@123"
+  "baseURL": "http://ec2-13-52-103-135.us-west-1.compute.amazonaws.com:3000",
+  "emailVerificationTokenSecret": "newordevtoken@123",
+  "smtpEndpoint": "email-smtp.us-west-1.amazonaws.com",
+  "smtpUsername": "AKIASTFUCCNFX6IQZ5MK",
+  "smtpPassword": "BAMqOH2wA32bpQoIrGGq6Zx4wouCuOo+t+5iwYxCDokp",
+  "emailId": "newor.dev@gmail.com",
+  "passwordResetTokenSecret": "neworresettoken@123"
 }
-
