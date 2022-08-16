@@ -1,9 +1,6 @@
 {
   "baseURL": "http://ec2-13-52-103-135.us-west-1.compute.amazonaws.com:3000",
   "emailVerificationTokenSecret": "newordevtoken@123",
-  "smtpEndpoint": "email-smtp.us-west-1.amazonaws.com",
-  "smtpUsername": "AKIASTFUCCNFX6IQZ5MK",
-  "smtpPassword": "BAMqOH2wA32bpQoIrGGq6Zx4wouCuOo+t+5iwYxCDokp",
   "emailId": "newor.dev@gmail.com",
   "passwordResetTokenSecret": "neworresettoken@123",
   "idTokenSecret": "neworidtoken@123"
