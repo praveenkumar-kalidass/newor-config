@@ -3,5 +3,6 @@
   "emailVerificationTokenSecret": "newordevtoken@123",
   "emailId": "newor.dev@gmail.com",
   "passwordResetTokenSecret": "neworresettoken@123",
-  "idTokenSecret": "neworidtoken@123"
+  "idTokenSecret": "neworidtoken@123",
+  "userPictureBucket": "newor-user-picture"
 }
